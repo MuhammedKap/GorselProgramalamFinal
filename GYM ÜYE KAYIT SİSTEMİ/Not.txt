@@ -1,5 +1,3 @@
 Merhaba Hocam . Ben Muhammed Mustafa Kap bilgisayar programcılığı 2.sınıf öğrencisiyim. (HR230062)
 
 Formun kullanıcı adı ve şifresi (1) 
-
-Bin/Debug içinde direkt .exe halide mevcuttur.
